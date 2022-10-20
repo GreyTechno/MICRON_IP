@@ -24,15 +24,13 @@
 </p>
 
 # MICRON_IP
-### [+] Created By MR.GT (@***grey_techno***)
+### [+] Created By ***MR.GT***
 
 ### ABOUT TOOL :
 This Micron_IP Is An Python Based Scripted Tool.
 Which Helps You Stay Safe Online By Learning About Which Of Your Personal Information Is Accessible !
 Which Can Be Used To IP Lookup , DNS Lookup And To Get Information Of Perticualar Target IP
 In Just Few Steps Without Any Issue.
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
-</p>
 
 ## TESTED ON :
 
