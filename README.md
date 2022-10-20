@@ -6,7 +6,7 @@
 <a href="https://tinyurl.com/4zubxzet"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
 <a href="https://tinyurl.com/4zubxzet"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-YES!-green.svg"></a>
 </p>
-####################################################################################################
+
 <p align="center">
 <a href="https://github.com/GreyTechno/MICRON_IP"><img title="MICRON_IP" src="https://user-images.githubusercontent.com/49580304/96563916-5f0c9380-1277-11eb-814f-88de938d67a7.jpg"></a>
 </p>
@@ -23,7 +23,8 @@
 <a href="https://github.com/GreyTechno/MICRON_IP"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-# MICRON_IP
+<h2>MICRON_IP</h2>
+
 ### [+] Created By ***MR.GT***
 
 ### ABOUT TOOL :
@@ -77,20 +78,19 @@ git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
 cd $HOME ;apt-get install git && apt-get install python && git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-### For Run The Tool Type 👇👇
+### For Run The Tool Type 👇
 
 * `cd $HOME/MICRON_IP`
 * `python micron_ip.py`
 * And >> `cd MICRON_IP ; python micron_ip.py`
 
 
-# [+]--Now you need internet connection to continue further process...
+[+]--Now you need internet connection to continue further process...
 
 ### SCREEN SHOTS :
-
 <br>
 <p align="center">
-<img width="50%" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/20221020_164500.png"/>
+<img width="80%" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/20221020_164500.png"/>
 <img width="45%" src="https://user-images.githubusercontent.com/49580304/96563953-6c298280-1277-11eb-9cf2-828b351168ae.jpg"/>
 </p>
 
