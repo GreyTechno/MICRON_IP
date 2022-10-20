@@ -89,9 +89,8 @@ cd $HOME ;apt-get install git && apt-get install python && git clone https://git
 
 ### SCREEN SHOTS :
 <br>
-<p align="center">
-<img width="80%" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/20221020_164500.png"/>
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96563953-6c298280-1277-11eb-9cf2-828b351168ae.jpg"/>
+<p align="center"><img width="70%" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/secreenshot1.png"/>
+<img width="70%" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/20221020_170110.jpg"/>
 </p>
 
 # >> If You Can Use Any Part From This Code So, Give Me The Credits Read The License...!!!! <<
