@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/GreyTechno/MICRON_IP"><img title="MICRON_IP" src="https://user-images.githubusercontent.com/49580304/96563916-5f0c9380-1277-11eb-814f-88de938d67a7.jpg"></a>
+<a href="https://github.com/GreyTechno/MICRON_IP"><img title="MICRON_IP" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/micron_ip.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/GreyTechno/"><img title="Github" src="https://img.shields.io/badge/GITHUB-GreyTechno-brightgreen?style=for-the-badge&logo=github"></a>
@@ -23,11 +23,11 @@
 <a href="https://github.com/GreyTechno/MICRON_IP"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-<h2>MICRON_IP</h2>
+# MICRON_IP
 
 ### [+] Created By ***MR.GT***
 
-### ABOUT TOOL :
+## ABOUT TOOL :
 This Micron_IP Is An Python Based Scripted Tool.
 Which Helps You Stay Safe Online By Learning About Which Of Your Personal Information Is Accessible !
 Which Can Be Used To IP Lookup , DNS Lookup And To Get Information Of Perticualar Target IP
@@ -44,7 +44,7 @@ In Just Few Steps Without Any Issue.
 * Python
 * Storage 50 MB
 
-## ⭐ FEATURES :
+## FEATURES :
 
 * [+] Advance IP Tracker !
 * [+] Unstable Tool !
@@ -52,8 +52,8 @@ In Just Few Steps Without Any Issue.
 * [+] Updated Maintainence !
 * [+] Easy for Beginners !
 
-### INSTALLATION [Termux]
-* CLONE ON HOME DIRECRTORY !
+## INSTALLATION [Termux]
+* CLONE ON HOME DIRECTORY !
 ```
 cd $HOME
 apt-get update -y
@@ -66,19 +66,19 @@ git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
 cd $HOME ;apt-get update && apt-get upgrade -y && pkg install git && pkg install python -y && git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-### INSTALLATION [Linux] :
-* CLONE ON HOME DIRECRTORY !
+## INSTALLATION [Linux] :
+* CLONE ON HOME DIRECTORY !
 ```
 cd $HOME
 apt-get install git
 apt-get install python
 git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-## Or, Use Single Command
+### Or, Use Single Command
 ```
 cd $HOME ;apt-get install git && apt-get install python && git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-### For Run The Tool Type 👇
+## For Run The Tool Type 👇
 
 * `cd $HOME/MICRON_IP`
 * `python micron_ip.py`
@@ -87,16 +87,16 @@ cd $HOME ;apt-get install git && apt-get install python && git clone https://git
 
 [+]--Now you need internet connection to continue further process...
 
-### SCREEN SHOT
+## SCREEN SHOT
 <br>
 <p align="center">
 <img width="70%" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/20221020_170110.jpg"/>
 </p>
 
-# >> If You Can Use Any Part From This Code So, Give Me The Credits Read The License...!!!! <<
+### If You Can Use Any Part From This Code So, Give Me The Credits Read The License...!!!!
 <hr>
 
-### CONNECT WITH US :
+## CONNECT WITH ME
 
 <a href="https://www.instagram.com/grey_techno/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-grey_techno-red?style=for-the-badge&logo=Instagram"></a>
 
