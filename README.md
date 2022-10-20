@@ -52,7 +52,7 @@ In Just Few Steps Without Any Issue.
 * [+] Updated Maintainence !
 * [+] Easy for Beginners !
 
-### INSTALLATION [Termux] :
+### INSTALLATION [Termux]
 * CLONE ON HOME DIRECRTORY !
 ```
 cd $HOME
@@ -62,7 +62,7 @@ pkg install git -y
 pkg install python -y
 git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-## Or, Use Single Command :
+## Or, Use Single Command
 ```
 cd $HOME ;apt-get update && apt-get upgrade -y && pkg install git && pkg install python -y && git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
@@ -74,7 +74,7 @@ apt-get install git
 apt-get install python
 git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-## Or, Use Single Command :
+## Or, Use Single Command
 ```
 cd $HOME ;apt-get install git && apt-get install python && git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
@@ -87,9 +87,9 @@ cd $HOME ;apt-get install git && apt-get install python && git clone https://git
 
 [+]--Now you need internet connection to continue further process...
 
-### SCREEN SHOTS :
+### SCREEN SHOT
 <br>
-<p align="center"><img width="70%" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/secreenshot1.png"/>
+<p align="center">
 <img width="70%" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/20221020_170110.jpg"/>
 </p>
 
