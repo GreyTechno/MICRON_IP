@@ -61,7 +61,7 @@ pkg install git -y
 pkg install python -y
 git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-#### Or Use Single Line Command
+##### Or Use Single Line Command
 ```
 cd $HOME ;apt-get update && apt-get upgrade -y && pkg install git && pkg install python -y && git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
@@ -72,16 +72,19 @@ apt-get install git
 apt-get install python
 git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-#### Or Use Single Line Command
+##### Or Use Single Line Command
 ```
 cd $HOME ;apt-get install git && apt-get install python && git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-## For Run The Tool Type 👇
+## For Run Type
 ```
 cd $HOME/MICRON_IP
 python micron_ip.py
 ```
-* And >> `cd MICRON_IP ; python micron_ip.py`
+* And
+```
+cd $HOME/MICRON_IP ; python micron_ip.py
+```
 
 
 [+]--Now you need internet connection to continue further process...
