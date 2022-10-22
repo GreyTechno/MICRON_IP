@@ -61,7 +61,7 @@ pkg install git -y
 pkg install python -y
 git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-## Or, Use Single Command
+#### Or Use Single Line Command
 ```
 cd $HOME ;apt-get update && apt-get upgrade -y && pkg install git && pkg install python -y && git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
@@ -72,7 +72,7 @@ apt-get install git
 apt-get install python
 git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
-### Or, Use Single Command
+#### Or Use Single Line Command
 ```
 cd $HOME ;apt-get install git && apt-get install python && git clone https://github.com/GreyTechno/MICRON_IP.git
 ```
