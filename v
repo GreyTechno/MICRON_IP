@@ -1,1 +1,1 @@
-{"version01":"helloworld","version02": "v 1.0"}
+{"version":"v 1.0"}
