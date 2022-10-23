@@ -384,7 +384,7 @@ def version():
         connection()
         version = requests.get("https://raw.githubusercontent.com/GreyTechno/MICRON_IP/main/v").json()
         version = version['version']
-        if v != 'v 1.0':
+        if version != 'v 1.0':
             print(y+"UPDATES_ARE_AVAILABLE...!!!"+re)
             t.sleep(2)
             update()
