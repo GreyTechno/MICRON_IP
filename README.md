@@ -4,7 +4,6 @@
 <p align="center">
 <a href="https://tinyurl.com/4zubxzet"><img title="MICRON_IP" src="https://img.shields.io/badge/Tool-MICRON_IP-green.svg"></a>
 <a href="https://tinyurl.com/4zubxzet"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
-<a href="https://tinyurl.com/4zubxzet"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-YES!-green.svg"></a>
 </p>
 
 <p align="center">
