@@ -2,6 +2,9 @@
 <a href="https://tinyurl.com/nhesyyk6"><img title="MADE IN INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
+<a href="https://tinyurl.com/4zubxzet"><img title="AUTHER:MR.GT" src="https://img.shields.io/badge/Auther-MR.GT-green.svg"></a>
+</p>
+<p align="center">
 <a href="https://tinyurl.com/4zubxzet"><img title="MICRON_IP" src="https://img.shields.io/badge/Tool-MICRON_IP-green.svg"></a>
 <a href="https://tinyurl.com/4zubxzet"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
 </p>
@@ -87,12 +90,6 @@ cd $HOME/MICRON_IP ; python micron_ip.py
 
 
 [+]--Now you need internet connection to continue further process...
-
-## SCREEN SHOT
-<br>
-<p align="center">
-<img width="70%" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/20221020_170110.jpg"/>
-</p>
 
 ### If You Can Use Any Part From This Code So, Give Me The Credits Read The License...!!!!
 <hr>
