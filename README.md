@@ -2,7 +2,7 @@
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRua6kWme35H2V9nc7i4lMQlNBlRncWBdVP-58My-Ivh3xmxDuD4oNNlMU&s=10"><img title="MADE IN INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://tinyurl.com/4zubxzet"><img title="AUTHER:MR.GT" src="https://img.shields.io/badge/Auther-MR.GT-green.svg"></a>
+<a href="https://tinyurl.com/4zubxzet"><img title="AUTHER_MR.GT" src="https://img.shields.io/badge/Auther-MR.GT-green.svg"></a>
 </p>
 <p align="center">
 <a href="https://tinyurl.com/4zubxzet"><img title="MICRON_IP" src="https://img.shields.io/badge/Tool-MICRON_IP-green.svg"></a>
@@ -18,10 +18,10 @@
 </p>
 <p align="center">
 <a href="https://www.python.org/"><img title="Language" src="https://img.shields.io/badge/Made%20In-Python-1f425f.svg?v=103"></a>
-<a href="https://github.com/GreyTechno/"><img title="Followers" src="https://img.shields.io/github/followers/GreyTechno?color=blue&style=flat-square"></a>
-<a href="https://github.com/GreyTechno/MICRON_IP"><img title="Stars" src="https://img.shields.io/github/stars/GreyTechno/MICRON_IP?color=red&style=flat-square"></a>
-<a href="https://github.com/GreyTechno/MICRON_IP"><img title="Forks" src="https://img.shields.io/github/forks/GreyTechno/MICRON_IP?color=red&style=flat-square"></a>
-<a href="https://github.com/GreyTechno/MICRON_IP"><img title="Watching" src="https://img.shields.io/github/watchers/GreyTechno/MICRON_IP?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/GreyTechno/"><img title="Followers" src="https://img.shields.io/github/Followers/GreyTechno?color=blue&style=flat-square"></a>
+<a href="https://github.com/GreyTechno/MICRON_IP"><img title="Stars" src="https://img.shields.io/github/Stars/GreyTechno/MICRON_IP?color=red&style=flat-square"></a>
+<a href="https://github.com/GreyTechno/MICRON_IP"><img title="Forks" src="https://img.shields.io/github/Forks/GreyTechno/MICRON_IP?color=red&style=flat-square"></a>
+<a href="https://github.com/GreyTechno/MICRON_IP"><img title="Watching" src="https://img.shields.io/github/Watchers/GreyTechno/MICRON_IP?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/GreyTechno/MICRON_IP/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 </p>
 
