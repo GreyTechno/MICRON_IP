@@ -59,6 +59,21 @@ In Just Few Steps Without Any Issue.
 * Status
 * Sucess
 * Continent
+* Continent_Code
+* Country
+* Country_Code
+* Country_Code_ISO3
+* Country_Code_TLD
+* Flag_Image
+* Flag_Emoji
+* Flag_Emoji_UNI_Code
+* Latitude
+* Longitude
+* Region_Name
+* Region_Code
+* City_Name
+* Postal_Code
+* Country_Capital
 
 ## INSTALLATION [Termux]
 ```
