@@ -74,6 +74,24 @@ In Just Few Steps Without Any Issue.
 * City_Name
 * Postal_Code
 * Country_Capital
+* Languages
+* Country_Calling_Code
+* Currency
+* Currency_Name
+* IN_EU
+* IS_EU
+* ISP
+* ASN
+* TimeZone
+* Time_ABBR
+* Time_OFFSET
+* Time_UTC
+* Time_IS_DST
+* Current_Time
+* Borders
+* Connection_Domin
+* Google_Maps
+* And Other Details
 
 ## INSTALLATION [Termux]
 ```
