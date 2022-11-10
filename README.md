@@ -89,7 +89,7 @@
 * Google_Maps
 * And Other Details
 
-### Clone On Your Home Directory (Recommanded)
+### Clone On Your Home Directory (Recommended)
 
 ## INSTALLATION [Termux]
 ```
