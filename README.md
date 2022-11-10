@@ -53,6 +53,13 @@ In Just Few Steps Without Any Issue.
 * [+] Updated Maintainence !
 * [+] Easy for Beginners !
 
+## Lookup Features
+* Internet_Protocol
+* Type
+* Status
+* Sucess
+* Continent
+
 ## INSTALLATION [Termux]
 ```
 cd $HOME
