@@ -19,7 +19,7 @@
 <a href="#"><img title="Stars" src="https://img.shields.io/github/stars/GreyTechno/MICRON_IP?color=red&style=flat-square"></a>
 <a href="#"><img title="Forks" src="https://img.shields.io/github/forks/GreyTechno/MICRON_IP?color=red&style=flat-square"></a>
 <a href="#"><img title="Watchers" src="https://img.shields.io/github/watchers/GreyTechno/MICRON_IP?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/GreyTechno/MICRON_IP/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
+<a href="https://github.com/GreyTechno/MICRON_IP/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 # MICRON_IP
