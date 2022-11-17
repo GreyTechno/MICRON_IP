@@ -2,8 +2,8 @@
 <a href="https://github.com/GreyTechno/"><img title="AUTHER_MR.GT" src="https://img.shields.io/badge/Auther-MR.GT-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="MICRON_IP" src="https://img.shields.io/badge/Tool-MICRON_IP-green.svg"></a>
-<a href="https://tinyurl.com/4zubxzet"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
+<a href="#"><img title="TOOL-MICRON_IP" src="https://img.shields.io/badge/Tool-MICRON_IP-green.svg"></a>
+<a href="#"><img title="TOOL-Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
 </p>
 
 <p align="center">
