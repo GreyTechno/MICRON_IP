@@ -25,12 +25,14 @@
 <a href="https://github.com/GreyTechno/MICRON_IP/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-# MICRON_IP
-### Created By ***MR.GT***
+<p align="center">
+<a href="https://github.com/GreyTechno/"><img title="AUTHER_MR.GT" src="https://github.com/GreyTechno/MICRON_IP/blob/main/Images/20221124_222057.png"></a>
+</p>
 
-
-## ABOUT TOOL
-#### This Micron_IP Is An Python Based Scripted Tool.Which Helps You Stay Safe Online By Learning About Which Of Your Personal Information Is Accessible !.Which Can Be Used To IP Lookup , DNS Lookup And To Get Information Of Perticualar Target IP In Just Few Steps Without Any Issue And Its Work On Non Rooted Android And Both Rooted Devices Or Others Devices And Oprating Systems.
+<h2 align="center">🚀ABOUT MICRON IP</h2>
+<p align="center">
+This Micron_IP Is An Python Based Scripted Tool.Which Helps You Stay Safe Online By Learning About Which Of Your Personal Information Is Accessible !.Which Can Be Used To IP Lookup , DNS Lookup And To Get Information Of Perticualar Target IP In Just Few Steps Without Any Issue And Its Work On Non Rooted Android And Both Rooted Devices Or Others Devices And Oprating Systems.
+</p>
 
 ## TESTED ON
 
