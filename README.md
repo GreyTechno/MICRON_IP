@@ -113,6 +113,15 @@ Easy for Beginners !
 * Google_Maps
 * And Other Details
 
+
+> Obviously, this blue part here is the land. 
+> 
+> — <cite>Byron "Buster" Bluth, reading a map</cite>
+
+> WARNING !
+>
+> It is created for Educational Purpose only. If you use this tool for other purposes except education we will not be responsible in such cases
+
 ### Clone On Your Home Directory (Recommended)
 
 ## INSTALLATION [Termux]
