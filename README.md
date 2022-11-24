@@ -34,18 +34,32 @@
 This Micron_IP Is An Python Based Scripted Tool.Which Helps You Stay Safe Online By Learning About Which Of Your Personal Information Is Accessible !.Which Can Be Used To IP Lookup , DNS Lookup And To Get Information Of Perticualar Target IP In Just Few Steps Without Any Issue And Its Work On Non Rooted Android And Both Rooted Devices Or Others Devices And Oprating Systems.
 </p>
 
-## TESTED ON
 
-* Termux
-* Linux
+<h2 align="left">TESTED ON</h2>
+<li>
+Termux
+</li>
+<li>
+Linux
+</li>
 
-## REQUIREMENTS
+<h2 align="left">REQUIREMENTS</h2>
+<li>
+Internet
+</li>
+<li>
+Python
+</li>
+<li>
+Storage
+</li>
 
-* Internet
-* Python
-* Storage 50 MB
 
-## FEATURES
+<h2 align="left">⭐FEATURES</h2>
+
+
+
+
 
 * Advance IP Lookup Tool !
 * Unstable Tool !
