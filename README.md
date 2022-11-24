@@ -55,17 +55,23 @@ Storage
 </li>
 
 
-<h2 align="left">⭐FEATURES</h2>
+<h2 align="left">FEATURES</h2>
+<li>
+Advance IP Lookup Tool !
+</li>
+<li>
+Unstable Tool !
+</li>
+<li>
+Auto Updateing Features !
+</li>
+<li>
+Update Maintainence !
+</li>
+<li>
+Easy for Beginners !
+</li>
 
-
-
-
-
-* Advance IP Lookup Tool !
-* Unstable Tool !
-* Auto Checking Updates !
-* Updated Maintainence !
-* Easy for Beginners !
 
 ## Lookup Features
 
