@@ -125,7 +125,8 @@ Easy For Beginners
 * Other Details
 </details>
 
-##### 🛠️INSTALLATION [Termux]
+#
+### 🛠️INSTALLATION [Termux]
 ``` sh
 cd $HOME
 apt-get update -y
@@ -140,7 +141,10 @@ pip install -r requirements.txt
 ``` sh
 cd $HOME && apt-get update && apt-get upgrade -y && pkg install git && pkg install python -y && git clone https://github.com/GreyTechno/MICRON_IP.git && cd cd MICRON_IP && pip install -r requirements.txt
 ```
-#### 🛠️INSTALLATION [Linux]
+<p align="right"><a href="#top"><img align="right" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/892692.png" alt="top" height="40" width="40"></a></p>
+
+#
+### 🛠️INSTALLATION [Linux]
 ``` sh
 cd $HOME
 apt-get install git
@@ -156,7 +160,7 @@ cd $HOME && apt-get install git && apt-get install python && git clone https://g
 <p align="right"><a href="#top"><img align="right" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/892692.png" alt="top" height="40" width="40"></a></p>
 
 #
-### 💻For Start Micron IP Type
+#### 💻For Start Micron IP
 ``` sh
 cd $HOME/MICRON_IP
 python micron_ip.py
@@ -166,13 +170,13 @@ python micron_ip.py
 cd $HOME/MICRON_IP && python micron_ip.py
 ```
 #
-> If You Can Use Any Part From This Code So, Give Me The Credits...!!!!
+> #### If You Can Use Any Part From This Code So, Give Me The Credits...!!!!
 #
 ## CONNECT WITH ME
 
 <a href="https://www.instagram.com/grey_techno/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-grey_techno-red?style=for-the-badge&logo=Instagram"></a>
 
-## AGAIN WARNING
+## WARNING
 ***It is created for Educational Purpose only. If you use this tool for other purposes except education we will not be responsible in such cases.***
 <p align="right"><a href="#top"><img align="right" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/892692.png" alt="top" height="40" width="40"></a></p>
 
