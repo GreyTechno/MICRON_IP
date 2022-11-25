@@ -141,7 +141,6 @@ pip install -r requirements.txt
 ``` sh
 cd $HOME && apt-get update && apt-get upgrade -y && pkg install git && pkg install python -y && git clone https://github.com/GreyTechno/MICRON_IP.git && cd cd MICRON_IP && pip install -r requirements.txt
 ```
-<p align="right"><a href="#top"><img align="right" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/892692.png" alt="top" height="40" width="40"></a></p>
 
 #
 ### 🛠️INSTALLATION [Linux]
