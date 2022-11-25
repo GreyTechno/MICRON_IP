@@ -171,9 +171,8 @@ cd $HOME/MICRON_IP && python micron_ip.py
 #
 > #### If You Can Use Any Part From This Code So, Give Me The Credits...!!!!
 #
-## CONNECT WITH ME
-
-<a href="https://www.instagram.com/grey_techno/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-grey_techno-red?style=for-the-badge&logo=Instagram"></a>
+<h2><b><i>📡 ConnectWithMe</i></b></h2> 
+<p align="centre"><a href="https://instagram.com/grey_techno/" target="blank"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221118_213656.png" alt="Instagram" height=30% width=70%></a></p>
 
 ## WARNING
 ***It is created for Educational Purpose only. If you use this tool for other purposes except education we will not be responsible in such cases.***
