@@ -125,7 +125,7 @@ Easy For Beginners
 * Other Details
 </details>
 
-#### 🛠️INSTALLATION [Termux]
+##### 🛠️INSTALLATION [Termux]
 ``` sh
 cd $HOME
 apt-get update -y
