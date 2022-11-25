@@ -59,19 +59,19 @@ Storage
 
 <h2 align="left">FEATURES</h2>
 <li>
-Advance IP Lookup Tool !
+Advance IP Lookup Tool
 </li>
 <li>
-Unstable Tool !
+Unstable Tool
 </li>
 <li>
-Auto Updateing Features !
+Auto Updateing Features
 </li>
 <li>
-Update Maintainence !
+Update Maintainence
 </li>
 <li>
-Easy for Beginners !
+Easy For Beginners
 </li>
 
 #
@@ -83,7 +83,7 @@ Easy for Beginners !
 #
 
 <details> 
-<summary><h2 align="left"> Lookup Features</h2></summary> 
+<summary><h2 align="left">Lookup Features</h2></summary> 
 
 * Internet_Protocol
 * Type
@@ -125,7 +125,7 @@ Easy for Beginners !
 * Other Details
 </details>
 
-### 🛠️INSTALLATION [Termux]
+#### 🛠️INSTALLATION [Termux]
 ``` sh
 cd $HOME
 apt-get update -y
@@ -140,7 +140,7 @@ pip install -r requirements.txt
 ``` sh
 cd $HOME && apt-get update && apt-get upgrade -y && pkg install git && pkg install python -y && git clone https://github.com/GreyTechno/MICRON_IP.git && cd cd MICRON_IP && pip install -r requirements.txt
 ```
-### 🛠️INSTALLATION [Linux]
+#### 🛠️INSTALLATION [Linux]
 ``` sh
 cd $HOME
 apt-get install git
