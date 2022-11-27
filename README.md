@@ -139,7 +139,7 @@ pip install -r requirements.txt
 ```
 > Or, Use Single Line Command
 ``` sh
-cd $HOME && apt-get update && apt-get upgrade -y && pkg install git && pkg install python -y && git clone https://github.com/GreyTechno/MICRON_IP.git && cd cd MICRON_IP && pip install -r requirements.txt
+cd $HOME && apt-get update && apt-get upgrade -y && pkg install git && pkg install python -y && git clone https://github.com/GreyTechno/MICRON_IP.git && cd $HOME/MICRON_IP && pip install -r requirements.txt
 ```
 
 #
