@@ -171,6 +171,10 @@ cd $HOME/MICRON_IP && python micron_ip.py
 #
 > #### If You Can Use Any Part From This Code So, Give Me The Credits...!!!!
 #
+### Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/GreyTechno%7C%7CMICRON_IP/count.svg)
+
 <h2><b><i>📡ConnectWithMe</i></b></h2> 
 <p align="centre"><a href="https://instagram.com/grey_techno/" target="blank"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221118_213656.png" alt="Instagram" height=30% width=70%></a></p>
 
